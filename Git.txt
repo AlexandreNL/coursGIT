@@ -13,7 +13,9 @@ Enregistrement: 1. Modification pour créer une nouvelle version.
 - cd pour se déplacer
 - mkdir pour créer dossier
 - git status 
+- git add . pour ajouter
 
+un A doit s'afficher à coté des fichiers, sinon aller rechercher le dossier dans vscode
 
 
 
