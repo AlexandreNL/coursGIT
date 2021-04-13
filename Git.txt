@@ -16,6 +16,8 @@ Enregistrement: 1. Modification pour créer une nouvelle version.
 - git add . pour ajouter
 
 un A doit s'afficher à coté des fichiers, sinon aller rechercher le dossier dans vscode
+git diff pour voir les modifs ajoutés
+
 
 
 
