@@ -1,0 +1,19 @@
+Permet de créer et gérer les diff versions d'un projet:
+
+- Retient qui a effectué chaque modif de chaque fichier et pourquoi.
+- Si deux personnes travaillent sur le meme fichier simultanément,
+ il est capable d'assembler/fusionner les modifications et éviter que le travail d'une des personnes se soit effacé.
+
+Repository: Dossier actuel, lui ajouter une fonctionnalité de dépot avec la cmd "git init"
+Enregistrement: 1. Modification pour créer une nouvelle version.
+		2. Indexation
+		3. commit
+
+- git init
+- cd pour se déplacer
+- mkdir pour créer dossier
+- git status 
+
+
+
+
